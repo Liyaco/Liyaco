@@ -1,2 +1,3 @@
 while (true):
+  
   print("Mondongo")
